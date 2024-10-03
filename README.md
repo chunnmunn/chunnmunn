@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyways.ai%2Fcareer-wiki%2Fblogs%2Fview%2Froadmap-to-become-a-full-stack-developer&psig=AOvVaw0m0r8iJ1Uyc_lM7LdKorJq&ust=1728071526243000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCPDPvJ7-8ogDFQAAAAAdAAAAABCqAQ)
+![MasterHead](https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif)
 <h1 align="center">Hi 👋, I'm Sameer Jaiswal</h1>
 <h3 align="center">KUDOS!!! i am a full stack developer from INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
