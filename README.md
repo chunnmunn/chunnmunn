@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif)
+![MasterHead](https://www.crio.do/blog/content/images/2021/04/Full-Stack-Developer-Roadmap.png)
 <h1 align="center">Hi 👋, I'm Sameer Jaiswal</h1>
 <h3 align="center">KUDOS!!! i am a full stack developer from INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
