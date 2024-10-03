@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*3RrAoZWTBBl13gHhIMpQYg.gif)
+![MasterHead]([https://miro.medium.com/v2/resize:fit:1200/1*3RrAoZWTBBl13gHhIMpQYg.gif](https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png))
 <h1 align="center">Hi 👋, I'm Sameer Jaiswal</h1>
 <h3 align="center">KUDOS!!! i am a full stack developer from INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
