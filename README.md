@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sameer Jaiswal</h1>
 <h3 align="center">KUDOS!!! i am a full stack developer from INDIA</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fmahmudinm%2F47588cab5af928d2c8a2976d90216ea7&psig=AOvVaw3jTa5ydg4JyOvki-HbLE2d&ust=1728070982308000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC2pJr88ogDFQAAAAAdAAAAABAR">
 
 - 🔭 I’m currently working on [SUBHASHA_CONNECT](https://github.com/chunnmunn/Subhasha_connect)
 
